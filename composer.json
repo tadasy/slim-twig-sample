@@ -1,0 +1,16 @@
+{
+  "name": "slim-twig sample web",
+  "autoload": {
+    "psr-0": {"Sample": "src"}
+  },
+  "require": {
+    "slim/slim": "2.*",
+    "slim/views": "0.1.*",
+    "slim/extras": "2.0.*",
+    "twig/twig": "1.*"
+
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  }
+}
