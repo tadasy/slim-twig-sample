@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Database
+ */
 class Database
 {
     private static $configs = [
